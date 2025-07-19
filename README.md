@@ -5,4 +5,4 @@ INTERN ID : CT04DG2455
 DOMAIN : SQL
 DUARATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
-Output:
+Output:[Database_Migration_Report.pdf](https://github.com/user-attachments/files/21330852/Database_Migration_Report.pdf)
